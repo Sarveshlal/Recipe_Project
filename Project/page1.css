@@ -1,0 +1,34 @@
+.heading{
+    position: absolute;
+    top: 70px;
+    left: 820px;
+    font-weight: bold;
+    font-family: 'Marck Script', cursive;
+}
+.heading:hover{
+    color: gray;
+}
+.card{
+    border: 1px solid rgb(72, 218, 28);
+    border-radius: 50px 0px;
+}
+.card:hover{
+    background-color: rgb(116, 255, 2);
+    color: white;
+}
+.card-title{
+    font-weight: bold;
+    font-family: 'Merienda', cursive;
+}
+.card-text{
+    font-family: 'Courgette', cursive;
+}
+#button{
+    border: 1px solid ;
+    border-radius: 50px 0px 50px;
+}
+#detail{
+    border: 1px solid;
+    border-radius: 0px 0px 50px;
+}
+
