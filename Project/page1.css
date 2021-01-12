@@ -1,7 +1,7 @@
 .heading{
-    position: absolute;
+    /* position: absolute;
     top: 70px;
-    left: 820px;
+    left: 820px; */
     font-weight: bold;
     font-family: 'Marck Script', cursive;
 }
@@ -24,9 +24,13 @@
 .card-text{
     font-family: 'Courgette', cursive;
 }
-#button{
+#details{
     border: 1px solid ;
     border-radius: 50px 0px 50px;
+}
+.fade:hover{
+    background-color: none;
+    color: black;
 }
 #detail{
     border: 1px solid;
